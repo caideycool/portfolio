@@ -1,0 +1,10 @@
+.body {
+    background-image: url("img/mainbg.png");
+    /* or .png, .webp, etc. */
+    background-repeat: repeat;
+    /* or no-repeat, repeat-x, repeat-y */
+    background-size: auto;
+    /* or cover, contain */
+    background-position: center;
+    /* optional */
+}
